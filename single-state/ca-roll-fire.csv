@@ -1,0 +1,8 @@
+vehicle-type,roll-true,percent,roll-false,percent,roll-total,fire-true,percent,fire-false,percent,fire-total
+Passenger Cars,256,11.3,2008,88.7,2264,89,3.9,2175,96.1,2264
+Light Trucks,393,18.6,1723,81.4,2116,66,3.1,2050,96.9,2116
+Large Trucks,29,7.8,342,92.2,371,11,3.0,360,97.0,371
+Motorcycles,19,3.2,579,96.8,598,100.0,,,,
+Buses,0,0.0,14,100.0,14,0,0.0,14,100.0,14
+Other/Unknown Vehicles,14,5.4,244,94.6,258,4,1.6,254,98.4,258
+Total,692,13.8,4331,86.2,5023,189,3.4,5432,96.6,5621
